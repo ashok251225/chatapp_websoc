@@ -1,4 +1,3 @@
-// lib/chat/models/chat_message.dart
 class ChatMessage {
   final String senderId;
   final String recipientId;

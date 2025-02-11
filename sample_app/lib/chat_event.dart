@@ -1,4 +1,3 @@
-// lib/chat/bloc/chat_event.dart
 import '../models/chat_message.dart';
 
 abstract class ChatEvent {}
